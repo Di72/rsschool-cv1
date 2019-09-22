@@ -9,6 +9,8 @@ In particular, I like to create something out of nothing. Programming tends to e
 The last year I’m involved in web technologies and studied programming languages such as JS, HTML, CSS, PHP at a basic level.
 ## Education:
 Studied at Samara State Aerospace University.
+## English: 
+The test showed my english level is A2.
 ## Example of code:
 ```
 function confirmAge(age){
